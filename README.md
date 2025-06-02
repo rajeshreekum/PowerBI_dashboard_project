@@ -1,5 +1,6 @@
 # PowerBI_dashboard_project
 E-Commerce sales dashboard Project:
+
 Dataset : This E-Commerce sales dashboard presents a comprehensive view of Year-to-Date (YTD) performance across various metrics, including sales, profit, quantity sold, and profit margin. The data-set encompasses sales data segmented by product categories, regions, states, shipping types, and individual product performance.
 
 Objectives : The primary objective is to monitor overall performance trends, identify high and low-performing products and regions, and uncover opportunities for improving sales and profitability. 
